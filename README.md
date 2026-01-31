@@ -1,7 +1,7 @@
 # 🌍 Tour Management Web Application
 
 ## 📌 Project Overview
-frontend live: https://htmlpreview.github.io/?https://github.com/MRoshaan/web-tech-project/blob/main/frontend/index.html#home
+frontend live: https://htmlpreview.github.io/?https://github.com/MRoshaan/web-tech-project/blob/main/frontend/index.html     
 This project is a **Tour Management Web Application** developed as part of a web technologies course.  
 It allows users to explore tour-related information through a web interface while using a server-side backend to manage data.
 
