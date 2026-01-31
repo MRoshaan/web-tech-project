@@ -34,8 +34,9 @@ Below are screenshots showing different parts of the application interface and f
 <img width="1365" height="642" alt="image" src="https://github.com/user-attachments/assets/a00d1247-7474-4ceb-90a5-450699889c1a" />
 
 <img width="1283" height="628" alt="image" src="https://github.com/user-attachments/assets/b37fad3f-4e99-42b7-8d73-c3e1986d9821" />
+
 <img width="1340" height="652" alt="image" src="https://github.com/user-attachments/assets/ffbf9520-3e42-4ca2-9ed4-6b7d2d0d3fee" />
-<img width="1329" height="581" alt="image" src="https://github.com/user-attachments/assets/5b1c983f-e4c9-40d1-a145-7661dbf5aed8" />
+
 <img width="1329" height="581" alt="image" src="https://github.com/user-attachments/assets/5b1c983f-e4c9-40d1-a145-7661dbf5aed8" />
 
 <img width="1339" height="524" alt="image" src="https://github.com/user-attachments/assets/a60d3aad-f60d-4f29-899b-b7d341ec0620" />
